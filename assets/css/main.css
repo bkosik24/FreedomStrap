@@ -2568,3 +2568,20 @@ body > article {
     margin-top: 0;
   }
 }
+
+/* Custom styles */
+.image-emblem {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0 auto 25px;
+}
+
+.image-emblem img {
+  margin: auto;
+}
